@@ -22,5 +22,11 @@ git clone /home/livia/Workspace/git/servidor projeto
 git remote rename origin servidor
 git push servidor master
 git pull servidor master
+git branch
+git branch titulo
+git checkout titulo
+git checkout -b lista
+git merge titulo
 
 https://devhints.io/git-log
+https://git-school.github.io/visualizing-git/
